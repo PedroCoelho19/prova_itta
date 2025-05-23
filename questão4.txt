@@ -1,0 +1,1 @@
+SELECT nome from clientes where cidade = 'São paulo'
