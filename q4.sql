@@ -1,0 +1,1 @@
+SELECT nome, cidade FROM clientes WHERE cidade="São Paulo"

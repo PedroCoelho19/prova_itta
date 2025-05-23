@@ -1,0 +1,1 @@
+SELECT nome FROM clientes  WHERE id=cliente_id
